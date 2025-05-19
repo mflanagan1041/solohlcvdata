@@ -1,6 +1,6 @@
 # Builderby's Approach to Solana OHLCV Data: Core Concepts & Our Strategy
 
-![OHLCV Infrastructure Flowchart](../public/images/ohlcvinfraflowchart.png)
+![OHLCV Infrastructure Flowchart](https://github.com/mflanagan1041/solohlcvdata/raw/main/public/images/ohlcvinfraflowchart.png)
 
 As Builderby, our mission is to construct a comprehensive, real-time OHLCV (Open, High, Low, Close, Volume) data platform for potentially *all* SPL tokens on Solana. This document outlines the core concepts we'll be working with and how we plan to tackle the inherent challenges.
 
